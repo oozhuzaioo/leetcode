@@ -4,7 +4,7 @@
 
 目前模板：
 
-* [力扣打卡记录 - 模板.xlsx](https://github.com/stranded-fish/Excel-for-LeetCode-Exercises-Statistics/blob/main/%E5%8A%9B%E6%89%A3%E6%89%93%E5%8D%A1%E8%AE%B0%E5%BD%95%20-%20%E6%A8%A1%E6%9D%BF.xlsx)，用于记录每日一题打卡或者平常算法练习。
+* [力扣打卡记录 - 模板.xlsx](https://github.com/oozhuzaioo/leetcode/blob/main/%E5%8A%9B%E6%89%A3%E6%89%93%E5%8D%A1%E8%AE%B0%E5%BD%95%20-%20%E6%A8%A1%E6%9D%BF.xlsx)，用于记录每日一题打卡或者平常算法练习。
 
 **eg 1.** 2021 年 10 月每日一题的打卡统计示例：
 
